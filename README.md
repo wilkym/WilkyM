@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Microsoft Secuirty System Administrator )</b>
   - [osTicket: Prerequisites and Installation](https://github.com/wilkym/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jwilkym/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/wilkym/ticket-lifecycle)
